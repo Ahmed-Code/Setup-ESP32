@@ -7,8 +7,8 @@
 
 - and for setup ESP32 with the IDE we need library , so we should go to `File > Prefrencec`  then write " https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json " on Additional boards Manger URLs.
 
-- then i go to  `tools > Board: "Arduino Uno" > Boards Manger` and install the ESP32.
+- then we can install ESP32 from  `tools > Board: "Arduino Uno" > Boards Manger` then select ESP32 and press install button.
 
-- then i select the board from `tools > Board: "Arduino Uno" > ESP32 Arduino > WEMOS D1 MINI ESP32`. 
+- then select the board from `tools > Board: "Arduino Uno" > ESP32 Arduino > WEMOS D1 MINI ESP32`. 
 
-- then i try to test by choosing an example from `File > Examples > ESP32`.
+- after this you try if the board working by choosing an example from `File > Examples > ESP32`.
